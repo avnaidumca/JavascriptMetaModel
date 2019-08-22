@@ -1,0 +1,17 @@
+{
+  "name": "shift-parser",
+  "version": "1.0.0",
+  "description": "Parsing .js file to review methods and attributes in each file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AV",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "json2csv": "^4.5.2",
+    "mocha": "^6.2.0",
+    "shift-parser": "^7.0.0"
+  }
+}
